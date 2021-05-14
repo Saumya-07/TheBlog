@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus ",
+      "author": "Saumya",
+      "id": 1
+    },
+    {
+      "title": "Most used developers tools",
+      "body": "commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec",
+      "author": "Vatsal",
+      "id": 2
+    },
+    {
+      "title": "Howdy people",
+      "body": "Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.",
+      "author": "Satya",
+      "id": 3
+    },
+    {
+      "title": "VS Code Tips",
+      "body": "Select ulinvsdjc adsajbcjshxjvbc vbdcsjz",
+      "author": "saumya",
+      "id": 4
+    }
+  ]
+}
