@@ -6,8 +6,8 @@ import Create from './Create';
 import BlogDetails from './BlogDetails';
 import NotFound from './NotFound';
 
-const title = 'Welcome to the page';
-const count =10;
+// const title = 'Welcome to the page';
+// const count =10;
 
 function App() {
   return (
