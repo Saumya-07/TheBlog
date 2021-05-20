@@ -1,3 +1,12 @@
+# The Blog ✍📒
+A blogging website to read,write blogs by different authors.
+
+## Functionalities:
+> Create new blogs by different author </br>
+> Delete blogs accordigly </br>
+> Preview blogs <br>
+> Created a local database to get and post data requests to add and delete blogs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
