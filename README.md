@@ -3,9 +3,19 @@ A blogging website to read,write blogs by different authors.
 
 ## Functionalities:
 > Create new blogs by different author </br>
-> Delete blogs accordigly </br>
+> Delete blogs accordingly</br>
 > Preview blogs <br>
 > Created a local database to get and post data requests to add and delete blogs.
+
+## View:
+### UI and delete a blog-
+![blog1](https://user-images.githubusercontent.com/68998355/119542079-c3af4400-bdac-11eb-9ea4-5a02c0f19aef.gif)
+</br></br>
+### Create a new blog-
+![blog2](https://user-images.githubusercontent.com/68998355/119542088-c5790780-bdac-11eb-8c04-dab059e5ec8f.gif)
+</br></br>
+### Mobile view📱-
+![Screenshot (601)](https://user-images.githubusercontent.com/68998355/119542650-68ca1c80-bdad-11eb-9d9a-804fb5e3278d.png)
 
 # Getting Started with Create React App
 
